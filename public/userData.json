@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1",
+        "estate_title": "Beautiful Family Home",
+        "segment_name": "Residential",
+        "description": "A beautiful family home with spacious rooms and a large backyard.",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "123 Maple Street, Springfield",
+        "facilities": [
+            "Living Room",
+            "Swimming Pool",
+            "Kitchen",
+            "Garage"
+        ],
+        "image": "https://i.ibb.co.com/qCTMbnV/images-4.jpg"
+    },
+    {
+        "id": "2",
+        "estate_title": "Modern Apartment",
+        "segment_name": "Residential",
+        "description": "A modern apartment in the heart of the city with all amenities.",
+        "price": "$250,000",
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "456 Oak Avenue, Springfield",
+        "facilities": [
+            "Living Room",
+            "Gym",
+            "Kitchen",
+            "Balcony"
+        ],
+        "image": "https://i.ibb.co.com/NTh3jhJ/Townhouses-in-Victoria-Australia.jpg"
+    },
+    {
+        "id": "3",
+        "estate_title": "Cozy Cottage",
+        "segment_name": "Residential",
+        "description": "A small and cozy cottage perfect for weekend getaways.",
+        "price": "$150,000",
+        "status": "rent",
+        "area": "900 sq ft",
+        "location": "789 Pine Road, Springfield",
+        "facilities": [
+            "Living Room",
+            "Fireplace",
+            "Kitchen"
+        ],
+        "image": "https://i.ibb.co.com/vmN5Z6c/images-3.jpg"
+    },
+    {
+        "id": "4",
+        "estate_title": "Luxury Villa",
+        "segment_name": "Residential",
+        "description": "A luxurious villa with a private pool and breathtaking views.",
+        "price": "$1,500,000",
+        "status": "sale",
+        "area": "5000 sq ft",
+        "location": "321 Beach Drive, Miami",
+        "facilities": [
+            "Living Room",
+            "Swimming Pool",
+            "Home Theater",
+            "Gym",
+            "Bar"
+        ],
+        "image": "https://i.ibb.co.com/3YG676C/images-2.jpg"
+    },
+    {
+        "id": "5",
+        "estate_title": "Student Housing",
+        "segment_name": "Residential",
+        "description": "A beautiful family home with spacious rooms and a large backyard.",
+        "price": "$350,000",
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "123 Maple Street, Springfield",
+        "facilities": [
+            "Living Room",
+            "Swimming Pool",
+            "Kitchen",
+            "Garage"
+        ],
+        "image": "https://i.ibb.co.com/fkfbZ9x/ai-generative-3d-modern-luxury-real-estate-house-for-sale-and-rent-luxury-property-concept-ai-genera.jpg"
+    },
+    {
+        "id": "6",
+        "estate_title": "Senior Living Communities",
+        "segment_name": "Residential",
+        "description": "A modern apartment in the heart of the city with all amenities.",
+        "price": "$250,000",
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "456 Oak Avenue, Springfield",
+        "facilities": [
+            "Living Room",
+            "Gym",
+            "Kitchen",
+            "Balcony"
+        ],
+        "image": "https://i.ibb.co.com/qCPbwkg/images-1.jpg"
+    }
+]
